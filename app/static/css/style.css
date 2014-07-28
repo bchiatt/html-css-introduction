@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Sigmar+One);
+
+body{
+  margin: 0px;
+  background-color: pink;
+}
+
+h1{
+  border: 3px dotted black;
+  color: black;
+  background-color: yellow;
+  font-size: 90px;
+  letter-spacing: 10px;
+  padding: 20px;
+  margin: 0px;
+  font-family: 'Sigmar One', cursive;
+}
+
+nav{
+  margin-top: 25px;
+}
+
+a{
+  font-family: sans-serif;
+  text-decoration: none;
+  color: red;
+  border: 1px dashed green;
+  padding: 5px;
+  margin: 5px;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: blue;
+  background-color: red;
+}
+
+.super{
+  margin: 15px;
+  color: red;
+}
+
+#awesome{
+  margin: 15px;
+  color: blue;
+}
